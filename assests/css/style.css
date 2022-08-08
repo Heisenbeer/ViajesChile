@@ -13,3 +13,16 @@ body{
     font-family: 'Open Sans', sans-serif;
     font-family: 'Raleway', sans-serif;;
 }
+
+.footer-wrap{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.nav-black{
+    background-color: black;
+    opacity: 0.9;
+    color: white;
+}
